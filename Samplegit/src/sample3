@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+   <title> IMAGE </title>
+   <style>
+    body{
+        background-color: lightyellow;
+       }
+       img{
+           float: left;
+           margin-left: auto;
+           margin-bottom: auto;
+           width: 100px;
+           height: 163px;
+       }
+       p{
+           border: 5px solid black;
+           margin: 10px 300px 100px 10px;
+       }
+    </style>
+</head>
+<body>
+    <h4>Madhuri <br>1602-17-737-081 </h4>
+    <p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/360px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg" alt="Eiffel Tower">
+        The Eiffel Tower is a wrought-iron lattice tower on the Champ de Mars in Paris, France.<br><br><br>
+        It is named after the engineer Gustave Eiffel,whose company designed and built the tower.<br><br><br>  
+    </p>
+</body>
+</html>
